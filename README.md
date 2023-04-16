@@ -24,4 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halil-akgun&show_icons=true&locale=en" alt="halil-akgun" /></p>
 
+<p>&nbsp;</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halil-akgun&" alt="halil-akgun" /></p>
