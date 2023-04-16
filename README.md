@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋,  I'm  Halil Akgün</h1>
 <h3 align="center">Jr. Full Stack Web Developer</h3>
 
+---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halil-akgun" alt="halil-akgun" /></a> </p>
 
 <p>&nbsp;</p>
