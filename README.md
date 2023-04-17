@@ -3,7 +3,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halil-akgun" alt="halil-akgun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halil-akgun&theme=darkhub" alt="halil-akgun" /></a> </p>
 
 <p>&nbsp;</p>
 
