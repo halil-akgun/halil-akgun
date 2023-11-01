@@ -4,9 +4,6 @@
 
 <p>&nbsp;</p>
 
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=halil-akgun&theme=darkhub" alt="halil-akgun" /> </p>
-
 <p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
